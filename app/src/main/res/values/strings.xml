@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LaSalle_DDM1_Ex1_TuPrimeraApp</string>
+
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+
+    <string name="correct_toast">Correct Answer</string>
+    <string name="wrong_toast">Wrong Answer</string>
+
+    <string name="quest_tokio">Tokio is the capital of China.</string>
+    <string name="quest_pekin">Pekin is the capital of China</string>
+    <string name="quest_new_york">New York is the capital of The United States</string>
+    <string name="quest_washington">Washington D.C. is the capital of The United States</string>
+    <string name="quest_london">London is the capital of Ireland</string>
+    <string name="quest_dublin">Dublin is the capital of Ireland</string>
+    <string name="quest_atenas">Atenas is the capital of Greece</string>
+    <string name="quest_esparta">Esparta is the capital of Ireland</string>
+
+
+</resources>
